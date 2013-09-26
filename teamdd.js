@@ -11,7 +11,8 @@ var teamList = [
 	"NSNE",
 	"Clark",
 	"Badassilisks",
-	"McGill"
+	"McGill",
+	"UNH"
 ]
 
 var submitted = false;
